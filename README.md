@@ -156,6 +156,7 @@ Repo mirrors:
 - [gemini-pandoc-lua-filter](https://github.com/kr1sp1n/gemini-pandoc-lua-filter) (Lua) - a lua filter for pandoc to output Gemini text.
 - [gemini-to-html](https://github.com/RangerMauve/gemini-to-html) (Node.js) - a JavaScript library for parsing Gemini pages, and for rendering them to HTML.
 - [geminize](https://addons.mozilla.org/en-US/firefox/addon/geminize/) - a Firefox addon that redirects gemini:// URLs and links to a customizable HTTP-to-Gemini proxy.
+<<<<<<< HEAD
 - [gemlog.sh](https://git.nytpu.com/gemlog.sh/about/) (Bash) - Utility for writing and managing gemini logs (gemlogs) and atom feeds (simple gemini static site generator/framework)
 - [gem.git](https://git.sr.ht/~fkfd/git.gmi/) (Python) - git frontend CGI script.
 - [gloggery](https://github.com/kconner/gloggery) (Go) - basic static site generator for blogs in Gemini.
